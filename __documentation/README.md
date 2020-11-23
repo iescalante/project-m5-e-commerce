@@ -10,7 +10,7 @@ Your node server should be RESTful and follow REST principles, at least to the e
 
 ## Getting Started
 
-<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;"/>
 
 You have your assignment and your team. What should you do first? This will vary for every team, and even every team member.
 
