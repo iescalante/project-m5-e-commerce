@@ -28,20 +28,20 @@ React with a node.js express server to create a web app storefront selling weara
 Also includes randomly featured products
 
 \
-![Alt text](./__documentation/pics/LandingPage.gif)
+![Landing Page](./LandingPage.gif)
 
 ---
 
 ### Quickly Add Items to Cart for Checkout
 
 \
-![Alt text](./__documentation/pics/buyItems.gif)
+![Buy Items](./buyItems.gif)
 
 ---
 
 ### Filter Items by Category
 
 \
-![Alt text](./__documentation/pics/browseCategories.gif)
+![Browse Categories](./browseCategories.gif)
 
 ---
