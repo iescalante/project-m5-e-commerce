@@ -27,21 +27,18 @@ React with a node.js express server to create a web app storefront selling weara
 
 Also includes randomly featured products
 
-\
 ![Landing Page](./LandingPage.gif)
 
 ---
 
 ### Quickly Add Items to Cart for Checkout
 
-\
 ![Buy Items](./buyItems.gif)
 
 ---
 
 ### Filter Items by Category
 
-\
 ![Browse Categories](./browseCategories.gif)
 
 ---
